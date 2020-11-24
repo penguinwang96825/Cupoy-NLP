@@ -140,3 +140,4 @@ cython_debug/
 # Large file
 *.7z
 *.zip
+Day007/data/
